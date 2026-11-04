@@ -42,8 +42,13 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   </a>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mahanamini4884@gmail.com">
+  <a href="https://www.instagram.com/mahan__aminy">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/mahan_aminy">
+    <img src="https://skillicons.dev/icons?i=telegram" height="45" />
   </a>
 </p>
 
