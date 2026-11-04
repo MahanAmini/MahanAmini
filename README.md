@@ -32,15 +32,12 @@ My goal is simple: write clean code, build reliable software, and grow into a so
  <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/midnightshady">
+  <a href="https://github.com/mahanamini">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kaifqureshi3672@gmail.com">
+  <a href="mailto:mahanamini4884@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
