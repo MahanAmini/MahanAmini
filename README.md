@@ -1,59 +1,162 @@
-<div align="center">
-  <!-- Header Banner Image (midnightshady style) -->
-<img src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/banner.gif" width="100%" alt="Header Banner" onerror="this.src='https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:000000&height=200&section=header&text=Mahan%20Amini&fontSize=50&fontColor=ffffff';" />
-<br/><br/>
-  <!-- Intro & Bio (midnightshady style) -->
-<h1>Hey there, I'm Mahan Amini 👋</h1>
-<p><b>Backend & Linux Automation Developer</b></p>
-<p>
-    <a href="https://github.com/MahanAmini"><img src="https://img.shields.io/github/followers/MahanAmini?logo=github&style=for-the-badge&color=dc2626&labelColor=181717" alt="GitHub Followers" /></a>
-    <a href="mailto:mahanamini4884@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" alt="Email" /></a>
-  </p>
-</div>
----
-⚡ About Me
-🔭 Working on Python Bots, Automation & System Scripts
-🐧 Linux Enthusiast | Loving Terminal & Neovim
-💬 Ask me about Python, Bash Scripting & Linux Server Management
-📫 How to reach me: `mahanamini4884@gmail.com`
----
-🛠️ Tech Stack
-<!-- Andrew-Velox Tech Stack style -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,cpp,linux,ubuntu,nginx,cloudflare,git,github,vscode,pycharm,docker" alt="Tech Stack" />
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, Mahan Amini</h1>
+
+<h3 align="center">Backend Developer</h3>
+
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+</p>
+
+<p align="center">
+Building reliable backend systems with clean architecture and scalable solutions.
+</p>
+
+
+##  <h2 align="center">🚀 About Me </h2>
+
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+
+**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+
+I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+
+Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+<br clear="right"/>
+
+ <h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/midnightshady">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kaifqureshi3672@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
-<details>
-  <summary><b>Detailed Tech Breakdown</b></summary>
-  <br/>
-Languages: Python, Bash / Shell, C++
-OS & DevOps: Linux (Ubuntu/Debian), Nginx, Cloudflare Proxy, Git
-IDEs & Tools: PyCharm, VS Code, Vim / Neovim
-</details>
----
-📊 GitHub Stats
-<!-- midnightshady GitHub State section -->
-<div align="center">
-<table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MahanAmini&show_icons=true&theme=dark&hide_border=true&title_color=dc2626&icon_color=dc2626&text_color=ffffff&bg_color=09090b" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanAmini&layout=compact&theme=dark&hide_border=true&title_color=dc2626&text_color=ffffff&bg_color=09090b" width="400" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahanAmini&theme=dark&hide_border=true&background=09090B&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" width="95%" alt="Streak Stats" />
-</div>
----
-🐍 Commit Activity (Red Snake)
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Nodejs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahanAmini/MahanAmini/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahanAmini/MahanAmini/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Red Snake" src="https://raw.githubusercontent.com/MahanAmini/MahanAmini/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
 </div>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
+
+### 
+<h2 align="center">⌘ Commit Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
