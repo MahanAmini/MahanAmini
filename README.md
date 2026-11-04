@@ -135,8 +135,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahanamini&theme=highcontrast&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=490" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahanamini&theme=tokyonight-duo&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=490" alt="GitHub Streak" /></a>
 </div>
 
 ### 
