@@ -153,22 +153,5 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
 </p>
 
-<!-- QUOTE:START -->
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" fill="none">
-    <!-- Background Card -->
-    <rect width="598" height="118" x="1" y="1" rx="10" fill="#09090b" stroke="#27272a" stroke-width="1" />
-    
-    <!-- Decorative Quote Marks -->
-    <text x="30" y="50" font-family="Georgia, serif" font-size="40" fill="#27272a">“</text>
-    <text x="560" y="100" font-family="Georgia, serif" font-size="40" fill="#27272a">”</text>
-
-    <!-- Content -->
-    <text x="300" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="26" fill="#dc2626" text-anchor="middle">改善</text>
-    <text x="300" y="85" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="400" font-size="14" fill="#a1a1aa" text-anchor="middle">Kaizen — Continuous Improvement</text>
-  </svg>
-</div>
-<!-- QUOTE:END -->
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
