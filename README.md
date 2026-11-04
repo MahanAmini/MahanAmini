@@ -153,11 +153,11 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
 </p>
 
-<h2 align="center">⌘ Philosophy</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
-</p>
+<!-- QUOTE:START -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E6%94%B9%E5%96%84%0AKaizen:%20Continuous%20Improvement" alt="Kaizen Quote"/>
+</div>
+<!-- QUOTE:END -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
