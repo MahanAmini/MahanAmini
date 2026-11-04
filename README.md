@@ -141,7 +141,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 ### 
 <h2 align="center">⌘ Commit Activity</h2>
 <div align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MahanAmini/MahanAmini/output/snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MahanAmini/MahanAmini/output/snake.svg?v=2" />
 </div>
 
 
