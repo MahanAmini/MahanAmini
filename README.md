@@ -155,7 +155,8 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <!-- QUOTE:START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E6%94%B9%E5%96%84%0AKaizen%20-%20Continuous%20Improvement" alt="Kaizen Quote"/>
+  <h3>改善</h3>
+  <p><em>Kaizen — Continuous Improvement</em></p>
 </div>
 <!-- QUOTE:END -->
 
