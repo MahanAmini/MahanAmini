@@ -155,8 +155,12 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <!-- QUOTE:START -->
 <div align="center">
-  <h3>改善</h3>
-  <p><em>Kaizen — Continuous Improvement</em></p>
+  <br>
+  <p align="center">
+    <b>改善</b><br>
+    <code>Kaizen — Continuous Improvement</code>
+  </p>
+  <br>
 </div>
 <!-- QUOTE:END -->
 
