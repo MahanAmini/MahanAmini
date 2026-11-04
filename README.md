@@ -40,6 +40,11 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <a href="mailto:mahanamini4884@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mahanamini4884@gmail.com">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
 </p>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
