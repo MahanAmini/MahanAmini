@@ -48,7 +48,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/mahan_aminy">
-    <img src="https://skillicons.dev/icons?i=telegram" height="45" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=telegram" height="45" />
   </a>
 </p>
 
