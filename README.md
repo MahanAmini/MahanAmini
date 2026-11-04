@@ -155,12 +155,25 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <!-- QUOTE:START -->
 <div align="center">
-  <br>
-  <p align="center">
-    <b>改善</b><br>
-    <code>Kaizen — Continuous Improvement</code>
-  </p>
-  <br>
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" fill="none">
+    <style>
+      .bg { fill: #09090b; stroke: #27272a; stroke-width: 1px; rx: 10px; }
+      .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 26px; fill: #dc2626; text-anchor: middle; }
+      .desc { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 400; font-size: 14px; fill: #a1a1aa; text-anchor: middle; }
+      .quote-icon { font-family: Georgia, serif; font-size: 40px; fill: #27272a; }
+    </style>
+    
+    <!-- Background Card -->
+    <rect width="598" height="118" x="1" y="1" class="bg" />
+    
+    <!-- Decorative Quote Marks -->
+    <text x="30" y="50" class="quote-icon">“</text>
+    <text x="560" y="100" class="quote-icon">”</text>
+
+    <!-- Content -->
+    <text x="300" y="52" class="title">改善</text>
+    <text x="300" y="85" class="desc">Kaizen — Continuous Improvement</text>
+  </svg>
 </div>
 <!-- QUOTE:END -->
 
