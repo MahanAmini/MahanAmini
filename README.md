@@ -19,13 +19,13 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+**Mahan Amini** — I turn ideas into backends that run, scale, and don't break at 3 AM.
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+Django, Telegram bots, payment gateways, VPN & VPS deployment. I build it, ship it, and keep it alive.
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+Now going deeper into **Linux, Docker, networking, and AI/ML**, because curiosity is my best dependency.
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+My goal is simple: write clean code, build reliable software, and create systems that last.
 
 <br clear="right"/>
 
