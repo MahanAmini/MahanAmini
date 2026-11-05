@@ -2,63 +2,58 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Mahan Amini</h1>
+<h1 align="center">Hi 👋, Mahan Amini</h1>
 
-<h3 align="center">Backend Engineer · Python Craftsman · System Builder</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+turning+coffee+into+APIs;%3E+breaking+things+in+dev%2C+never+in+prod;%3E+if+it+compiles%2C+it+ships;%3E+sudo+make+it+scale" alt="Typing SVG" />
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>I don't just write code — I design systems that survive real traffic.</i>
+Building reliable backend systems with clean architecture and scalable solutions.
 </p>
 
-<br/>
 
-<h2 align="center">🧬 About Me</h2>
+##  <h2 align="center">🚀 About Me </h2>
 
-<!--
-  GitHub strips CSS and media queries from READMEs, so a "switch layout under 768px" rule isn't possible.
-  Instead the image sits in its own centered row above the text, which looks right on every screen size.
--->
-<p align="center">
-  <img src="./assets/astro-removebg-preview.png" width="240" alt="Developer Illustration"/>
-</p>
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**Shaddy** here — a final-year Computer Engineering student who lives in the backend.
+**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
 
-I love turning messy requirements into clean, production-ready APIs with **Python**, and I'm obsessed with understanding how real-world systems actually work under the hood: from the database query to the packet on the wire.
+I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
 
-🔭 **Currently levelling up:** FastAPI · PostgreSQL · SQLAlchemy · Docker · Redis
-🧩 **Sharpening the blade:** Data Structures & Algorithms
-🎯 **The mission:** write code that's clean, build software that's reliable, and grow into an engineer whose systems outlast their deadlines.
+Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
 
-<br/>
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
-<h2 align="center">🤝 Connect</h2>
+<br clear="right"/>
+
+ <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
   <a href="https://github.com/mahanamini">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mahanamini4884@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mahan__aminy">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/mahan_aminy">
-    <img src="https://skills-icons.vercel.app/api/icons?i=telegram" height="45" alt="Telegram" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=telegram" height="45" />
   </a>
 </p>
 
-<br/>
-
 <h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
 
 <table align="center">
   <tr>
@@ -139,19 +134,12 @@ I love turning messy requirements into clean, production-ready APIs with **Pytho
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mahanamini&theme=tokyonight-duo&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=490" alt="GitHub Streak" />
-  </a>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahanamini&theme=tokyonight-duo&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=490" alt="GitHub Streak" /></a>
 </div>
 
-<h3 align="center">⌘ Commit Activity</h3>
-
+### 
+<a align="center">⌘ Commit Activity</a>
 <div align="center">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MahanAmini/MahanAmini/output/snake.svg?v=blue" />
 </div>
-
-<br/>
-
-<p align="center">
-  <i>"Make it work, make it right, make it fast."</i> 🚀
-</p>
