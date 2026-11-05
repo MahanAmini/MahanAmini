@@ -52,7 +52,7 @@ My goal is simple: write clean code, build reliable software, and create systems
   </a>
 </p>
 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center">⚡ Languages-Frameworks-Tools </h2>
 <br/>
 
 <table align="center">
