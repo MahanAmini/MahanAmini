@@ -7,7 +7,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=改善:+KAIZEN%2C;Consistency+builds+what+talent+can't;Trust+is+built+one+commitment+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%E6%94%B9%E5%96%84%3A+KAIZEN;Consistency+builds+what+talent+can%27t;Trust+is+built+one+commitment+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
