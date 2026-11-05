@@ -15,7 +15,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 </p>
 
 
-##  <h2 align="center">🚀 About Me </h2>
+<h2 align="center">🚀 About Me </h2>
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
