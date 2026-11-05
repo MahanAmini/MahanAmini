@@ -2,7 +2,7 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Mahan Amini</h1>
+<h1 align="center">Mahan Amini</h1>
 
 <h3 align="center">Backend Developer</h3>
 
